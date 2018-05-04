@@ -1,7 +1,7 @@
 
 A small script to import a local libvirt VM into KubeVirt.
 
-[![asciicast](https://asciinema.org/a/vvKdwXODNZhf3Cv24mIzPviEe.png)](https://asciinema.org/a/vvKdwXODNZhf3Cv24mIzPviEe)
+[![asciicast](asciinema-demo.gif)](https://asciinema.org/a/vvKdwXODNZhf3Cv24mIzPviEe)
 
 This includes
 
